@@ -21,5 +21,3 @@ Feature analysis
 
 
 
-🎯 Why Use ML Models Instead of TextBlob?
-AspectTextBlobML ModelsAccuracy~60-70%~80-95%CustomizationLimitedFully customizableTraining DataNoneLearns from your dataAdaptabilityFixed rulesAdapts to new patternsPerformanceMediumHighSetup TimeInstantMinutes
